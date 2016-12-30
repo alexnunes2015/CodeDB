@@ -4,9 +4,9 @@
 		<link rel="stylesheet" type="text/css" href="css/main.css">
 		<link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
 	</HEAD>
-	<BODY>
+	<BODY padding="20%">
 		<center>
-			<img src="img/logo.png" width="40%"><br><br><br>
+			<br><br><br><br><br><br><img src="img/logo.png" width="40%"><br><br><br>
 				<form method="post" action="search.php">
 				<input type="text" name="query">
 				<select name="language">

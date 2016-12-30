@@ -1,3 +1,21 @@
 body{
-	padding:10%;
+	padding:1px;
+	margin:0px;
+	border:0px;
+	background-color:#d3d2e0;
+}
+
+#title{
+	padding:5px;
+	height:35px;
+	background-color:#3546b2;
+}
+
+#tableName{
+	color:white;
+}
+
+#codeBody{
+	background-color:#191442;
+	height:100%
 }
